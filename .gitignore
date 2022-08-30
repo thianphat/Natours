@@ -8,3 +8,6 @@ css/icon-font.css
 css/style.concat.css
 css/style.prefix.css
 sass/
+.idea/modules.xml
+.idea/Natours.iml
+.idea/vcs.xml
